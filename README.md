@@ -1,8 +1,11 @@
 # Table of Contents
 
 [SL2](#SL2)
+
 [SL2 Database Documentation](#SL2-Database-Documentation)
+
 [SL2 Client](#SL2-Client)
+
 [Logfiles and Parsing](#Logfiles-and-Parsing)
 
 ---
